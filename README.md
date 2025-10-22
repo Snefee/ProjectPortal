@@ -1,5 +1,5 @@
 # Project Portal
-My attempt at recreating mechanics from the Portal game made by Valve Corporation in **Unreal Engine 5.5**. 
+My recreation of Valve's *Portal* mechanics in **Unreal Engine 5.5**. 
 <br>
 Download lastest release **[here](https://github.com/Snefee/ProjectPortal/releases/latest)**.
 <br>
